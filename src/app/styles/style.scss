@@ -1,0 +1,34 @@
+@import "options";
+@import "sprites/png-sprite";
+@import "sprites/svg-sprite";
+@import "sprites/svg-sprite-inline";
+
+//Mixins
+@import "mixins/png-sprite";
+@import "mixins/svg-sprite";
+
+@import "mixins/layout";
+@import "fonts/fonts";
+@import "libraries/normalize";
+@import "libraries/swiper-bundle";
+
+@import "layout/common";
+@import "layout/visually-hidden";
+
+@import "components/header";
+@import "components/hero";
+@import "components/advantage";
+@import "components/info";
+@import "components/quote";
+@import "components/footer";
+@import "components/tools";
+@import "components/feed-back";
+@import "components/price";
+@import "components/questions";
+@import "components/contacts";
+@import "libraries/aos";
+
+
+
+
+
